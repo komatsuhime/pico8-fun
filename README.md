@@ -1,1 +1,1 @@
-# pico8-fun
+# PICO-8 tests
